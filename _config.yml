@@ -4,18 +4,18 @@
 
 ### Site Information
 
-title: Edition Title
-tagline: An edition of various texts
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ut eleifend justo. Quisque gravida est a quam ultrices posuere. Suspendisse potenti. Morbi in metus malesuada, facilisis neque at, ornare lorem. Vestibulum augue eros, consectetur nec rhoncus eu, rhoncus at urna. # Shows up in the footer by default
+title: English 496: Scholarly Editing
+tagline: Students Engaged in Digital Recovery
+description: This edition includes texts recovered and edited by students at Southern Illinois University Edwardsville
 
 ### Site Structure
 
-baseurl: "/edition_base" # the subpath of your site
-url: "https://recoveryhub.github.io/" # should not change for Recovery Hub projects
+baseurl: "/scholarly_editing" # the subpath of your site
+url: "https://jdespain.github.io/" # should not change for Recovery Hub projects
 
 ### Contact
 
-project_pi: Grace Doe and Felicity Smith # This can be one or multiple names and will be listed in the footer by default
+project_pi: Jessica DeSpain, Kezia Miller, Kaye Moore, Alejandro Prieto Carbonell, Elizabeth Schroader, Adam Schroeder, Lamonta Swarn, Elizabeth Thomas
 twitter_username: AWWRecoveryHub # twitter name of the Recovery Hub
 github_username:  recoveryhub # github name of the Recovery Hub
 
