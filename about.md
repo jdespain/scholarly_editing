@@ -4,8 +4,7 @@ title: About
 ---
 
 <!-- Note no title because it is provided in the frontmatter, above -->
-
-This is the base about page. Below are some sections commonly found in edition about pages. 
+ 
 
 * Table of Contents
 {:toc}
@@ -20,7 +19,13 @@ What led to this project? What influences have there been?
 
 ## People
 
-List all the people that helped with the project and their roles
+Kezia Miller
+Kay Moore
+Alejandro Prieto Carbonell
+Liz Scrhoader
+Adam Schroeder
+Lamonta Swarn
+Elizabeth Thomas
 
 ## Use Statement
 
