@@ -1,8 +1,8 @@
 ## _SONNET_
 
-- **I once** had thought to have embalm'd my name
-- With Poesy:-to have serv'd the gentle Muses
-- With high sincerity :-but Fate refuses,
+- **I once** had thought to have embalm'd my name  
+With Poesy:-to have serv'd the gentle Muses  
+With high sincerity :-but Fate refuses,  
 - And I am now become most strangely tame,
 - And careless what becomes of Glory's game-
 - {:.indent-2} Who strives- who wins the wondrous prize- who 
