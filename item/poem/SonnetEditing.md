@@ -14,7 +14,7 @@
 - My mind to proud delights - But now it sees
 - Those visions going like the lights of even:
 - All intellectual grandeur dimly flees,-
-- And I am quiet as the stars of heaven!
+- {:.indent-4} And I am quiet as the stars of heaven!
 - {:.indent-6} **P.C.**
 #### The Fancy Version 1820
 ---
