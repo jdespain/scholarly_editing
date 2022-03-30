@@ -82,7 +82,7 @@ defaults:
     values:
       navigation: "true"
   - scope:
-      path: "docs/sonnet_Fancy.md"
+      path: "essay/Sonnet_Fancy.md"
     values:
       navigation: "true"
   - scope:
