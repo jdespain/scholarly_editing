@@ -7,7 +7,7 @@ Insert Kezia's text
 ### Page Layout  
 
 In _The Fancy_, the sonnets are placed...  
-![sonnet]("https://github.com/jdespain/scholarly_editing/blob/main/images/1820_Sonnet_PageLayout.png") 
+![sonnet]("https://jdespain.github.io/scholarly_editing/images/1820_Sonnet_PageLayout.png") 
 
 
 ## 1832: _The Athenaeum_, “Sonnet for Retirement”
