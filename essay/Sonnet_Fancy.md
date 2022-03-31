@@ -172,9 +172,9 @@ Magnificent and <span style="color:red">mental </span> images
 Those visions <span style="color:red"> going </span> like the lights of <span style="color:purple">e</span>ven<span style="color:DarkOrange ">:</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:DarkOrange ">,—  </span>  
 &nbsp;&nbsp;&nbsp;&nbsp;And I am <span style="color:red"> quiet </span> as the stars of <span style="color:purple">h</span>eaven!  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**P.C.**   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — **P.C.**   
 
-## "Sonnet of Retirement
+## "Sonnet of Retirement"
 
 I <span style="color:purple"> once</span> had thought to have embalm'd my name  
 &nbsp;&nbsp;&nbsp;&nbsp;With <span style="color:purple"> p</span>oesy—to have <span style="color:blue"> served </span> the gentle Muses  
