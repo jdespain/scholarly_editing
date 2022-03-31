@@ -1,4 +1,4 @@
-navigation: true
+
 ---
 layout: poem
 title: "Dirge for a Dead Painter"
@@ -6,6 +6,7 @@ author: Miss Jewsbury
 editor: Kaye Moore & Liz Schroader
 source: The Athenaeum no. 222, 28 January 1832 (new edition reprinted 21 April 1832)
 ---
+# "Dirge for a Dead Painter"
 
 ## INTRODUCTION ##
 
