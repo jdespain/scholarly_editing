@@ -1,5 +1,20 @@
+# **Authorial Biography** 
+![John Hamilton Reynolds](https://jdespain.github.io/scholarly_editing/images/JHR.jpeg)  
+
+Born on September 9, 1794, in Shrewsbury, Reynolds was the second child of five. His father, George Reynolds, was a schoolteacher and his mother, Charlotte Cox Reynolds, had a love of literature, which can be seen in Reynolds at a very early age as he was able to write verse before the age of ten. At the age of 11 he moved to London as his father had accepted a job there. He only attended school though the age of 15 when on his birthday he was pulled out, which was the custom at the time.  
+
+He had many jobs during his lifetime but the biggest two to note are his career working with multiple law firms and editing, writing, and poetry. His style has been described as romanticism and has acquired a lot of his notoriety as being the friend of John Keats and Thomas Hood.  
+
+He married to Eliza Powell Drewe on August 31, 1822. They were together until his death on November 15, 1852. They only had one child together, Lucy, who passed away in 1835 at the age of ten. His first job after school in 1810 was as a junior clerkship in an insurance office called the Amicable Society for Perpetual Insurance.  
+
+In the mid-1810s he was published in Repository of Literature, Arts, and Sciences, Gentleman's Magazine, and Ladies' Museum. He worked as an editor in many different magazines/journals over his career. In 1817 he joined a legal practice with his friend James Rice. He published his last book, Odes and Addresses to Great People, in 1825, which was co-authored by his brother-in-law Thomas Hood.  
+
+After this he only wrote non-literary prose for the magazine Athenaeum and created a few theatrical scripts. “Sonnet to Retirement” was published in _The Athenaeum_ in 1832. During this time, he was going though financial hardships and would eventually go bankrupt in 1838. 
+
+
 # **Textual History**  
-Before we narrow in on the textual history of “Sonnet for Retirement,” it may be helpful to begin with key information specific to Reynold’s literary style and the biographical context pertinent to the time when Reynold’s published the versions of his sonnet.  
+Before we narrow in on the textual history of “Sonnet for Retirement,” it may be helpful to begin pinpointing key information specific to Reynold’s literary style and the biographical context aforementioned pertinent to the time when Reynold’s published the various sonnet versions.  
+
 
 ### **A Romantic and Satirical Genuis**  
 
@@ -57,10 +72,6 @@ These variants are crucial in understanding how bibliographic codes add breadth 
 
 Insert Alex's text
 
-# **Authorial Biography**
-
-Insert Elizabeth's text
-
 # **Editorial Rational**
 
 Insert Elizabeth's text
@@ -80,3 +91,36 @@ Additional footnotes provide either **biographical** or  **historical** or **lit
 # **Ethical Implications** 
 
 Insert Elizabeth's text
+
+# **Transcriptions**
+
+## 1820 "Sonnet."
+## 1832 "Sonnet For Retirement."
+## 1905 "Sonnet."
+## Editor's Finalized Text  
+
+
+
+# **Works Cited** 
+
+### **Primary Sources**
+
+Reynolds, John H. “Sonnet.” _The Fancy: A Selection from the Poetical Remains of the Late Peter Corcoran of Gray’s Inn, Student at Law_. London: Taylor & Hessey, 1820. p. x, https://books.google.com/books?id=WDEpwgEACAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false  
+
+
+Reynolds, John H. “Sonnet of Retirement.” _The Athenaeum,_ no. 219, London, England: 1832. #22, p. 9. https://babel.hathitrust.org/cgi/pt?id=njp.32101077276309&view=1up&seq=22&skin=2021  
+
+Reynolds, John H. “Sonnet.” _The Fancy_. et al. The Fancy. Masefield ed., Elkin Mathews, 1905.  
+
+### **Secondary Sources**
+Gittings, Robert. “The Poetry of John Hamilton Reynolds.” Ariel, 1 (1970): pp. 7-17.  
+
+Jones, Leonidas M. “New Letters, Articles, and Poems by John Hamilton Reynolds.” _Keats-Shelley Journal_, vol. 6, Keats-Shelley Association of America, Inc., 1957, pp. 97–108, http://www.jstor.org/stable/30210030. 
+
+Jones, Leonidas M. “John Hamilton Reynolds.” _Gale Literature: Dictionary of Literary Biography_. DLB 96, pp. 301-307.  
+
+Kaier, Anne, and John Hamilton Reynolds. “John Hamilton Reynolds: Four New Letters.” _Keats-Shelley Journal_, vol. 30, Keats-Shelley Association of America, Inc., 1981, pp. 182–90, http://www.jstor.org/stable/30212903. 
+
+Marsh, George L. “New Data on Keats’s Friend Reynolds.” _Modern Philology_, vol. 25, no. 3, University of Chicago Press, 1928, pp. 319–29, http://www.jstor.org/stable/433824. 
+
+Image of John Hamilton Reynolds: http://t1.gstatic.com/licensed-image?q=tbn:ANd9GcQ3PVQXdWTQN8zv1ttcLcJOqapIVozPB7qqGn2FmdUcmp3nlM_ILJeUxcVXVYRw 
