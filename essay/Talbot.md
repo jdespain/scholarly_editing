@@ -1,4 +1,4 @@
-# Joe Upon Happiness by Fredrick Talbot edited by Lamonta Swarn and Adam Schroeder
+# *Joe Upon Happiness* by Fredrick Talbot edited by Lamonta Swarn and Adam Schroeder
 
 ## Textual History
 Mary Elizabeth Braddon and husband John Maxwell who were both successful authors in the genre of sensationalism worked together to  create and edit what is now known as The Belgravia: A London Magazine. 
