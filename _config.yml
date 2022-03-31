@@ -81,11 +81,11 @@ defaults:
       path: "index.md"
     values:
       navigation: "true"
-      - scope:
+  - scope:
       path: "essay/Sonnet_Fancy.md"
     values:
       navigation: "true"
-      - scope:
+  - scope:
       path: "essay/Dirgev5.md"
     values:
       navigation: "true"
