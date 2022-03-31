@@ -38,7 +38,9 @@ Also, by considering the context in which the poem was published, Reynolds may b
 
 
 ## 1905: _The Fancy_, ed. John Masefield,  “Sonnet”  
-Insert Kezia's text  
+![1832 sonnet](https://jdespain.github.io/scholarly_editing/images/1905_Masefield.png)  
+
+
 
 ## **Material Textuality**
 Last, there are a few bibliographic codes necessary to address before reviewing the three sonnet transcriptions. It seems easier to address them here than in the footnotes, and are delineated below:  
