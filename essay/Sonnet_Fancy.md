@@ -178,7 +178,7 @@ All intellectual  <span style="color:red">grandeur </span> dimly flees<span styl
 
 
 
-<center>## _Sonnet To Retirement_</center>
+## <center>_Sonnet To Retirement_</center>
 
 I <span style="color:purple"> once</span> had thought to have embalm'd my name  
 &nbsp;&nbsp;&nbsp;&nbsp;With <span style="color:purple"> p</span>oesy—to have <span style="color:blue"> served </span> the gentle Muses  
