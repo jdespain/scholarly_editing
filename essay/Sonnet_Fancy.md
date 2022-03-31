@@ -52,7 +52,8 @@ It is interesting to consider what it means for the poem to appear in such a ven
 Also, by considering the context in which the poem was published, Reynolds may be employing his satirical writing style to subtly call out _The Athenaeum’s_ ideological framework and the publication's idealized notions of artistic expression and poetic genius.
 
 
-## 1905: _The Fancy_, ed. John Masefield,  “Sonnet”  
+## 1905: _The Fancy_, ed. John Masefield, “Sonnet”  
+
 ![1832 sonnet](https://jdespain.github.io/scholarly_editing/images/1905_Masefield.png)  
 
 
