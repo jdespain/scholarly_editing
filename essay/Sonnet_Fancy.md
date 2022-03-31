@@ -159,7 +159,7 @@ Insert Elizabeth's text
 
 ## 1820 "Sonnet."  
 
-**I <span style="color:purple">  once**</span> had thought to have embalm'd my name  
+**I <span style="color:purple"><strong>once<strong></span> had thought to have embalm'd my name  
 With <span style="color:purple"> P</span>oesy<span style="color:green">:</span>—to have <span style="color:blue"> serv <span style="color:green">'</span>d </span> the gentle Muses  
 With high sincerity <span style="color:green">:</span>—but <span style="color:red"> <span style="color:purple"> F</span>ate</span> refuses<span style="color:green">,</span>  
 And I am now become most strangely tame,  
