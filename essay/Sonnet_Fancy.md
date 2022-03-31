@@ -20,7 +20,8 @@ In the mid-1810s he was published in Repository of Literature, Arts, and Science
 After this he only wrote non-literary prose for the magazine Athenaeum and created a few theatrical scripts. “Sonnet to Retirement” was published in _The Athenaeum_ in 1832. During this time, he was going though financial hardships and would eventually go bankrupt in 1838. 
 
 
-# <p align="center"><strong>Textual History</strong></p> 
+# **Textual History**  
+
 Before we narrow in on the textual history of “Sonnet for Retirement,” it may be helpful to begin pinpointing key information specific to Reynold’s literary style and the biographical context aforementioned pertinent to the time when Reynold’s published the various sonnet versions.  
 
 
@@ -124,7 +125,7 @@ These variants are crucial in understanding how bibliographic codes add breadth 
 
 Insert Alex's text
 
-# <p align="center"><strong>Editorial Rationale</strong></p>
+# **Editorial Rationale**  
 
 Insert Elizabeth's text
 
