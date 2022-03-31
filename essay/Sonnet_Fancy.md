@@ -176,7 +176,6 @@ All intellectual  <span style="color:red">grandeur </span> dimly flees<span styl
 {:.indent-4} And I am <span style="color:red"> quiet </span> as the stars of <span style="color:purple">h</span>eaven!  
 {:.indent-6} **P.C.**  
 
-
 ## 1832 "Sonnet For Retirement."
 ## 1905 "Sonnet."
 ## Editor's Finalized Text  
