@@ -85,6 +85,10 @@ defaults:
       path: "essay/Sonnet_Fancy.md"
     values:
       navigation: "true"
+      - scope:
+      path: "essay/Sonnet_Fancy.md"
+    values:
+      navigation: "essay/dirgev5.md"
   - scope:
       path: "docs/listing.html"
     values:
