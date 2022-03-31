@@ -1,5 +1,13 @@
-# **Authorial Biography** 
-![John Hamilton Reynolds](https://jdespain.github.io/scholarly_editing/images/JHR.jpeg)  
+# <p align="center"><strong>John Hamilton Reynolds: "Sonnet of Retirement"</strong></p> 
+
+<p align="center">
+  <img 
+    width="400"
+    height="550"
+    src="https://jdespain.github.io/scholarly_editing/images/JHR.jpeg">
+</p>
+
+# <p align="center"><strong>Authorial Biography</strong></p>
 
 Born on September 9, 1794, in Shrewsbury, Reynolds was the second child of five. His father, George Reynolds, was a schoolteacher and his mother, Charlotte Cox Reynolds, had a love of literature, which can be seen in Reynolds at a very early age as he was able to write verse before the age of ten. At the age of 11 he moved to London as his father had accepted a job there. He only attended school though the age of 15 when on his birthday he was pulled out, which was the custom at the time.  
 
@@ -12,38 +20,70 @@ In the mid-1810s he was published in Repository of Literature, Arts, and Science
 After this he only wrote non-literary prose for the magazine Athenaeum and created a few theatrical scripts. “Sonnet to Retirement” was published in _The Athenaeum_ in 1832. During this time, he was going though financial hardships and would eventually go bankrupt in 1838. 
 
 
-# **Textual History**  
+# <p align="center"><strong>Textual History</strong></p> 
 Before we narrow in on the textual history of “Sonnet for Retirement,” it may be helpful to begin pinpointing key information specific to Reynold’s literary style and the biographical context aforementioned pertinent to the time when Reynold’s published the various sonnet versions.  
 
 
-### **A Romantic and Satirical Genuis**  
+### ***A Romantic and Satirical Genuis***  
 
 Reynolds's strongest genre was satire. Since childhood, he had written comic and satirical poetry, which for years he “regarded as pieces of diversion” (Jones 304). Reynolds's most familiar work is his satirical masterpiece _Peter Bell_, an “uproarious mockery of William Wordsworth’s faults and limitations” (Jones 304). Leonidas Jones, a well-versed scholar of Reynolds, explains that “satire always depends upon the reader’s knowledge of and interest in what is being satirized. All literate people have potential traces of malice and envy that Reynolds's iconoclasm appeals to in ridiculing in _Peter Bell_ the great poetic god Wordsworth” (Jones 305).  
 
 Reynolds’s satirical approach and engagement with Romantic aesthetics are essential to keep in mind while reviewing the transcriptions and their provided footnotes.
 
-### **Biographical Timeline**  
-
-**insert timeline
+### ***Biographical Timeline***  
 
 
+**1816:**
+- Reynolds publishes _The Naiad: A Tale. With Other Poems_, seeking advancement in poetic maturity
+- Reynolds proposes to Eliza Powell Drewe
 
-## 1820: _The Fancy_, "Sonnet"  
-![1820 sonnet](https://jdespain.github.io/scholarly_editing/images/1820.png) 
+**1817:** _The height of Reynolds’s literary succuss_.
+- Reynolds enters law, a profession he practiced for the rest of his life
+- Reynolds publishes _Devon¬_, a volume of nonsatirical poetry 
+ 
+**1819:**  
+- Reynold’s publishes _Peter Bell. Lyrical Ballad_, under the pseudonym W. W.  
+
+**1820:**  
+- Reynolds publishes _The Fancy_: an autobiographical text, meditating on the life and literary career of "Peter Corcoran".  
+
+**1822:** _The year Reynolds resolves to the fact that he would never become a major poet_.  
+- Reynolds marries Eliza Powell Drewe  
+
+**1830s:** _The time where Reynolds’s writing grew less literary and more journalistic_.
+- Reynolds begins contributing to _The Athenaeum_, serving as chief author 
+
+***  
+
+
+### **1820: _The Fancy_, "SONNET."**  
+
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://jdespain.github.io/scholarly_editing/images/1820.png">
+</p>  
+
 
 The 1820 “Sonnet” is the first version of John Hamilton Reynolds's poem “Sonnet for Retirement.”
 In 1820, written under one of his pseudonyms, Peter Corcoran, Reynolds published _The Fancy_, a spirited but “fictional” biography of Corcoran.
 A scholar of Reynolds, Leonidas M. Jones, offers authorial intention behind Reynold’s _The Fancy_:  
 
-**insert blockquote
+> [Reynolds] pretend[s] to edit the poetic remains of a young law student, Peter, whose addiction to the boxing world had drawn him into moral decay and a premature death, he achieved sharp irony from the clash between the unnamed editor’s moral disapproval and the reader’s realization that Reynold’s true purpose was to celebrate the shade sports he pretended to condemn. (304)
 
 The irony lies, unbeknownst to Reynolds, in the uncanny prediction of his future. Below, you can see various passages pulled from _The Fancy_ to the similarities in Reynolds’s own fate:  
 
 **insert list
  
-## 1832: _The Athenaeum_, “Sonnet for Retirement”  
+### **1832: _The Athenaeum_, “Sonnet for Retirement.”**  
 
-![1832 sonnet](https://jdespain.github.io/scholarly_editing/images/1832.png) 
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://jdespain.github.io/scholarly_editing/images/1832.png">
+</p>  
 
 Reynold’s published “Sonnet for Retirement” in _The Athenaeum_ in 1832. This poem is a revised version of his original 1820 “Sonnet.”  
 
@@ -52,28 +92,39 @@ It is interesting to consider what it means for the poem to appear in such a ven
 Also, by considering the context in which the poem was published, Reynolds may be employing his satirical writing style to subtly call out _The Athenaeum’s_ ideological framework and the publication's idealized notions of artistic expression and poetic genius.
 
 
-## 1905: _The Fancy_, ed. John Masefield, “Sonnet”  
+### **1905: _The Fancy_, ed. John Masefield, “Sonnet.”** 
+<p align="center">
+  <img 
+    width="350"
+    height="300"
+    src="https://jdespain.github.io/scholarly_editing/images/1905_Masefield.png">
+</p>  
 
-![1832 sonnet](https://jdespain.github.io/scholarly_editing/images/1905_Masefield.png)  
+## ***Material Textuality***  
+
+Last, there is a varient within the bibliographic codes of the 1820 and 1832 sonnets necessary to address before reviewing the three sonnet transcriptions. It seems easier to address them here than in the footnotes, and are delineated below:  
 
 
+### Page Layout  
 
-## **Material Textuality**
-Last, there are a few bibliographic codes necessary to address before reviewing the three sonnet transcriptions. It seems easier to address them here than in the footnotes, and are delineated below:  
 
-### Page Layout 
-1820
+#### **1820 "SONNET."**
+In _The Fancy_, the two sonnets 
+
 ![sonnet](https://jdespain.github.io/scholarly_editing/images/1820_Sonnet_PageLayout.png) 
-### Publication Site 
-### Audience  
+
+#### **1905 "Sonnet."**  
+In Masefield's edition, the two sonnets
+
+![sonnet](https://jdespain.github.io/scholarly_editing/images/Masefield_Sonnets.png) 
 
 These variants are crucial in understanding how bibliographic codes add breadth to a body of work and its meaning, especially since the linguistic codes within the 1820 and 1905 sonnets are identical. 
 
-# **Social and Historical Context**
+# <p align="center"><strong>Social and Historical Context</strong></p>
 
 Insert Alex's text
 
-# **Editorial Rational**
+# <p align="center"><strong>Editorial Rationale</strong></p>
 
 Insert Elizabeth's text
 
@@ -89,11 +140,11 @@ Alongside the colored codes, you can find corresponding footnotes that further d
 
 Additional footnotes provide either **biographical** or  **historical** or **literary** context, offering you the opportunity for deeper understanding and readings.  
 
-# **Ethical Implications** 
+# <p align="center"><strong>Ethical Implications</strong></p>
 
 Insert Elizabeth's text
 
-# **Transcriptions**
+# <p align="center"><strong>Transcriptions</strong></p>
 
 ## 1820 "Sonnet."
 ## 1832 "Sonnet For Retirement."
@@ -102,7 +153,7 @@ Insert Elizabeth's text
 
 
 
-# **Works Cited** 
+# <p align="center"><strong>Works Cited</strong></p>
 
 ### **Primary Sources**
 
