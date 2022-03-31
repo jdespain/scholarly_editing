@@ -1,4 +1,4 @@
-# <p align="center"><strong>John Hamilton Reynolds: "Sonnet of Retirement"</strong></p> 
+# **John Hamilton Reynolds: "Sonnet of Retirement"**
 
 <p align="center">
   <img 
@@ -7,7 +7,7 @@
     src="https://jdespain.github.io/scholarly_editing/images/JHR.jpeg">
 </p>
 
-# <p align="center"><strong>Authorial Biography</strong></p>
+# **Authorial Biography**
 
 Born on September 9, 1794, in Shrewsbury, Reynolds was the second child of five. His father, George Reynolds, was a schoolteacher and his mother, Charlotte Cox Reynolds, had a love of literature, which can be seen in Reynolds at a very early age as he was able to write verse before the age of ten. At the age of 11 he moved to London as his father had accepted a job there. He only attended school though the age of 15 when on his birthday he was pulled out, which was the custom at the time.  
 
@@ -120,7 +120,7 @@ In Masefield's edition, the two sonnets
 
 These variants are crucial in understanding how bibliographic codes add breadth to a body of work and its meaning, especially since the linguistic codes within the 1820 and 1905 sonnets are identical. 
 
-# <p align="center"><strong>Social and Historical Context</strong></p>
+# **Social and Historical Context**
 
 Insert Alex's text
 
@@ -140,11 +140,11 @@ Alongside the colored codes, you can find corresponding footnotes that further d
 
 Additional footnotes provide either **biographical** or  **historical** or **literary** context, offering you the opportunity for deeper understanding and readings.  
 
-# <p align="center"><strong>Ethical Implications</strong></p>
+# **Ethical Implications**
 
 Insert Elizabeth's text
 
-# <p align="center"><strong>Transcriptions</strong></p>
+# **Transcriptions**
 
 ## 1820 "Sonnet."
 ## 1832 "Sonnet For Retirement."
@@ -153,7 +153,7 @@ Insert Elizabeth's text
 
 
 
-# <p align="center"><strong>Works Cited</strong></p>
+# **Works Cited**
 
 ### **Primary Sources**
 
