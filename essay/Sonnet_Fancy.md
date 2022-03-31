@@ -163,8 +163,8 @@ With <span style="color:purple"> P</span>oesy<span style="color:green">:</span>�
 With high sincerity <span style="color:green">:</span>—but <span style="color:red"> <span style="color:purple"> F</span>ate</span> refuses<span style="color:green">,</span>  
 And I am now become most strangely tame,  
 And careless what becomes of <span style="color:purple">G</span>lory's game—  
-{:.indent-2} Who <span style="color:red"> strives </span> — who wins the <span style="color:blue">wondrous</span> prize— who   
-{:.indent-3} loses<span style="color:green">!</span>  
+&nbsp; Who <span style="color:red"> strives </span> — who wins the <span style="color:blue">wondrous</span> prize— who   
+&nbsp; &nbsp; loses<span style="color:green">!</span>  
 Not that the <span style="color:red"> heavy </span>  world my spirit bruises<span style="color:green">;</span>  
  But<span style="color:red">  I have not the heart to rush at </span> Fame<span style="color:green">.</span>  
 Magnificent and <span style="color:red">mental </span> images  
@@ -173,7 +173,7 @@ My mind to proud delights — <span style="color:purple">b</span>ut now it sees
 Those visions <span style="color:red"> going </span> like the lights of <span style="color:purple">e</span>ven<span style="color:green">:</span>  
 All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:green">,—  </span>  
 &nbsp; And I am <span style="color:red"> quiet </span> as the stars of <span style="color:purple">h</span>eaven!  
-{:.indent-6} **P.C.**  
+&nbsp; &nbsp; &nbsp; &nbsp; **P.C.**  
 
 
 ## 1832 "Sonnet For Retirement."
