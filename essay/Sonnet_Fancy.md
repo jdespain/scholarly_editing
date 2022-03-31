@@ -136,8 +136,12 @@ These variants are crucial in understanding how bibliographic codes add breadth 
 Insert Alex's text
 
 # **Editorial Rationale**  
+We took notice of the spelling, capitalization, and punctuation (including indentations). This includes the of apostrophes so that the entire word is spelled out (e.g. wondrous vs. wond’rous), and the adjusting of the capitalization of some words as well as the punctuation (e.g. Posey:— vs. posey—). We also discussed the word differences that appeared between the 1820 and 1832 versions (see chart below to show major word changes).  
 
-Insert Elizabeth's text
+We have two different versions of the poem that were published at three separate points in time. Two by Reynolds himself in _The Fancy_ (1820) and in _The Athenaeum_ (1832) and the third by Masefield who was recovering _The Fancy_ (1905). The Masefield version was essentially an exact copy of the 1820 version of the poem with minor changes such as the capitalization of the title. The 1820 title was originally “SONNET” published in _The Fancy_, 1832. _The Athenaeum_ changed the title to “SONNET TO RETIREMENT” and made a few changes on word selection. The 1905 Masefield Edition came back to the original title; however, it was “Sonnet” (as seen in the printings).  
+
+The three texts show different word structure/selection, this can be due to the lack of importance of the poem structure if the words used were in the same stanza. Both _The Fancy_ and Masefield edition share P.C as author signature, but the 1832 version in _The Athenaeum_ is signed by J.H. Reynolds. 
+
 
 ## **Style Guide**
 You will see that words have been color-coded in each version of the poem. These denote the textual variants made by Reynolds:   
