@@ -172,7 +172,7 @@ Magnificent and <span style="color:red">mental </span> images
 Have visited me <span style="color:blue">oftentimes</span>, and given  
 My mind to proud delights — <span style="color:purple">b</span>ut now it sees  
 Those visions <span style="color:red"> going </span> like the lights of <span style="color:purple">e</span>ven<span style="color:green">:</span>  
-All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:green">,—  </span>
+All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:green">,— </span>  
 {:.indent-4} And I am <span style="color:red"> quiet </span> as the stars of <span style="color:purple">h</span>eaven!  
 {:.indent-6} **P.C.**  
 
