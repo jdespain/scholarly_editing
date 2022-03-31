@@ -142,10 +142,9 @@ Insert Elizabeth's text
 ## **Style Guide**
 You will see that words have been color-coded in each version of the poem. These denote the textual variants made by Reynolds:   
 - <span style="color:red">Red:</span> Word Choice
-- <span style="color:green">Green:</span> Punctuation
+- <span style="color:orange">Orange:</span> Punctuation
 - <span style="color:blue">Blue:</span> Spelling
 - <span style="color:purple">Purple:</span> Capitalization  
-- <span style="color:orange">Orange:</span> Line Indentation
 
 Alongside the colored codes, you can find corresponding footnotes that further discuss the textual variations, as well as a hypothetical explanation of the authorial intention behind these changes and our interpretation of its alternative meanings.  
 
@@ -159,41 +158,42 @@ Insert Elizabeth's text
 
 ## 1820 "Sonnet."  
 **I** <span style="color:purple">once</span> had thought to have embalm'd my name  
-With <span style="color:purple"> P</span>oesy<span style="color:green">:</span>—to have <span style="color:blue"> serv <span style="color:green">'</span>d </span> the gentle Muses  
-With high sincerity <span style="color:green">:</span>—but <span style="color:red"> <span style="color:purple"> F</span>ate</span> refuses<span style="color:green">,</span>  
+With <span style="color:purple"> P</span>oesy<span style="color:orange">:</span>—to have <span style="color:blue"> serv <span style="color:orange">'</span>d </span> the gentle Muses  
+With high sincerity <span style="color:orange">:</span>—but <span style="color:red"> <span style="color:purple"> F</span>ate</span> refuses<span style="color:orange">,</span>  
 And I am now become most strangely tame,  
 And careless what becomes of <span style="color:purple">G</span>lory's game—  
 &nbsp; Who <span style="color:red"> strives </span> — who wins the <span style="color:blue">wondrous</span> prize— who   
-&nbsp; &nbsp; loses<span style="color:green">!</span>  
-Not that the <span style="color:red"> heavy </span>  world my spirit bruises<span style="color:green">;</span>  
- But<span style="color:red">  I have not the heart to rush at </span> Fame<span style="color:green">.</span>  
+&nbsp; &nbsp; loses<span style="color:orange">!</span>  
+Not that the <span style="color:red"> heavy </span>  world my spirit bruises<span style="color:orange">;</span>  
+ But<span style="color:red">  I have not the heart to rush at </span> Fame<span style="color:orange">.</span>  
 Magnificent and <span style="color:red">mental </span> images  
 Have visited me <span style="color:blue">oftentimes</span>, and given  
 My mind to proud delights — <span style="color:purple">b</span>ut now it sees  
-Those visions <span style="color:red"> going </span> like the lights of <span style="color:purple">e</span>ven<span style="color:green">:</span>  
-All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:green">,—  </span>  
+Those visions <span style="color:red"> going </span> like the lights of <span style="color:purple">e</span>ven<span style="color:orange">:</span>  
+All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:orange">,—  </span>  
 &nbsp; And I am <span style="color:red"> quiet </span> as the stars of <span style="color:purple">h</span>eaven! 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — **P.C.**  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— **P.C.**  
+
 
 
 ## "Sonnet of Retirement
 
 I <span style="color:purple"> once</span> had thought to have embalm'd my name  
 &nbsp;&nbsp;&nbsp;&nbsp;With <span style="color:purple"> p</span>oesy—to have <span style="color:blue"> served </span> the gentle Muses  
-&nbsp;&nbsp;&nbsp;&nbsp;With high sincerity <span style="color:green">;</span>—but <span style="color:red">life</span> refuses<span style="color:green">;—</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;With high sincerity <span style="color:orange">;</span>—but <span style="color:red">life</span> refuses<span style="color:orange">;—</span>  
 And I am now become most strangely tame,  
 And careless what becomes of <span style="color:purple">g</span>lory's game—  
- &nbsp;&nbsp;&nbsp;&nbsp;Who <span style="color:red"> plays </span> — who wins the <span style="color:blue">wond<span style="color:green">'</span> rous</span> prize—  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who loses<span style="color:green">:</span>  
-Not that the <span style="color:red"> jarring </span>  world my spirit bruises<span style="color:green">—</span>  
- But<span style="color:red">  fate denies the Paradise of </span> Fame<span style="color:green">!</span>  
+ &nbsp;&nbsp;&nbsp;&nbsp;Who <span style="color:red"> plays </span> — who wins the <span style="color:blue">wond<span style="color:orange">'</span> rous</span> prize—  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who loses<span style="color:orange">:</span>  
+Not that the <span style="color:red"> jarring </span>  world my spirit bruises<span style="color:orange">—</span>  
+ But<span style="color:red">  fate denies the Paradise of </span> Fame<span style="color:orange">!</span>  
    
 Magnificent and <span style="color:red">lustrous </span> images  
-&nbsp;&nbsp;&nbsp;&nbsp;Have visited me often<span style="color:green">-</span>times, and given  
+&nbsp;&nbsp;&nbsp;&nbsp;Have visited me often<span style="color:orange">-</span>times, and given  
 My mind to proud delights — <span style="color:purple">B</span>ut now it sees  
-&nbsp;&nbsp;&nbsp;&nbsp;Those visions <span style="color:red"> fading </span> like the lights of <span style="color:purple">E</span>ven<span style="color:green">';</span>  
-All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:green">,</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;Those visions <span style="color:red"> fading </span> like the lights of <span style="color:purple">E</span>ven<span style="color:orange">';</span>  
+All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:orange">,</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;And I am <span style="color:red"> silent </span> as the stars of <span style="color:purple">H</span>eaven!  
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — **J.H. Reynolds**  
@@ -201,24 +201,25 @@ All intellectual  <span style="color:red">grandeur </span> dimly flees<span styl
 ## 1905 "Sonnet."  
 
 **I** <span style="color:purple">once</span> had thought to have embalm'd my name  
-With <span style="color:purple"> P</span>oesy<span style="color:green">:</span>—to have <span style="color:blue"> serv <span style="color:green">'</span>d </span> the gentle Muses  
-With high sincerity <span style="color:green">:</span>—but <span style="color:red"> <span style="color:purple"> F</span>ate</span> refuses<span style="color:green">,</span>  
+With <span style="color:purple"> P</span>oesy<span style="color:orange">:</span>—to have <span style="color:blue"> serv <span style="color:orange">'</span>d </span> the gentle Muses  
+With high sincerity <span style="color:orange">:</span>—but <span style="color:red"> <span style="color:purple"> F</span>ate</span> refuses<span style="color:orange">,</span>  
 And I am now become most strangely tame,  
 And careless what becomes of <span style="color:purple">G</span>lory's game—  
 &nbsp; Who <span style="color:red"> strives </span> — who wins the <span style="color:blue">wondrous</span> prize— who   
-&nbsp; &nbsp; loses<span style="color:green">!</span>  
-Not that the <span style="color:red"> heavy </span>  world my spirit bruises<span style="color:green">;</span>  
- But<span style="color:red">  I have not the heart to rush at </span> Fame<span style="color:green">.</span>  
+&nbsp; &nbsp; loses<span style="color:orange">!</span>  
+Not that the <span style="color:red"> heavy </span>  world my spirit bruises<span style="color:orange">;</span>  
+ But<span style="color:red">  I have not the heart to rush at </span> Fame<span style="color:orange">.</span>  
 Magnificent and <span style="color:red">mental </span> images  
 Have visited me <span style="color:blue">oftentimes</span>, and given  
 My mind to proud delights — <span style="color:purple">b</span>ut now it sees  
-Those visions <span style="color:red"> going </span> like the lights of <span style="color:purple">e</span>ven<span style="color:green">:</span>  
-All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:green">,—  </span>  
+Those visions <span style="color:red"> going </span> like the lights of <span style="color:purple">e</span>ven<span style="color:orange">:</span>  
+All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:orange">,—  </span>  
 &nbsp; And I am <span style="color:red"> quiet </span> as the stars of <span style="color:purple">h</span>eaven! 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — **P.C.**  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— **P.C.**  
 
 ## Editor's Finalized Text  
+insert text  
 
 
 
