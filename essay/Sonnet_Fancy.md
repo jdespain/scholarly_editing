@@ -1,6 +1,6 @@
 # **John Hamilton Reynolds: "Sonnet of Retirement"**
 
-<p align="center">
+<p align="left">
   <img 
     width="400"
     height="550"
@@ -59,7 +59,7 @@ Reynolds’s satirical approach and engagement with Romantic aesthetics are esse
 
 ### **1820: _The Fancy_, "SONNET."**  
 
-<p align="center">
+<p align="left">
   <img 
     width="300"
     height="300"
@@ -79,7 +79,7 @@ The irony lies, unbeknownst to Reynolds, in the uncanny prediction of his future
  
 ### **1832: _The Athenaeum_, “Sonnet for Retirement.”**  
 
-<p align="center">
+<p align="left">
   <img 
     width="300"
     height="300"
@@ -94,7 +94,7 @@ Also, by considering the context in which the poem was published, Reynolds may b
 
 
 ### **1905: _The Fancy_, ed. John Masefield, “Sonnet.”** 
-<p align="center">
+<p align="left">
   <img 
     width="350"
     height="300"
