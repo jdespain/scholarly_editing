@@ -178,8 +178,26 @@ All intellectual  <span style="color:red">grandeur </span> dimly flees<span styl
 
 
 
-## 1832 "Sonnet For Retirement."  
+<center>## _Sonnet To Retirement_</center>
 
+I <span style="color:purple"> once</span> had thought to have embalm'd my name  
+&nbsp;&nbsp;&nbsp;&nbsp;With <span style="color:purple"> p</span>oesy—to have <span style="color:blue"> served </span> the gentle Muses  
+&nbsp;&nbsp;&nbsp;&nbsp;With high sincerity <span style="color:green">;</span>—but <span style="color:red">life</span> refuses<span style="color:green">;—</span>  
+And I am now become most strangely tame,  
+And careless what becomes of <span style="color:purple">g</span>lory's game—  
+ &nbsp;&nbsp;&nbsp;&nbsp;Who <span style="color:red"> plays </span> — who wins the <span style="color:blue">wond<span style="color:green">'</span> rous</span> prize—  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who loses<span style="color:green">:</span>  
+Not that the <span style="color:red"> jarring </span>  world my spirit bruises<span style="color:green">—</span>  
+ But<span style="color:red">  fate denies the Paradise of </span> Fame<span style="color:green">!</span>  
+   
+Magnificent and <span style="color:red">lustrous </span> images  
+&nbsp;&nbsp;&nbsp;&nbsp;Have visited me often<span style="color:green">-</span>times, and given  
+My mind to proud delights — <span style="color:purple">B</span>ut now it sees  
+&nbsp;&nbsp;&nbsp;&nbsp;Those visions <span style="color:red"> fading </span> like the lights of <span style="color:purple">E</span>ven<span style="color:green">';</span>  
+All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:green">,</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;And I am <span style="color:red"> silent </span> as the stars of <span style="color:purple">H</span>eaven!  
+  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; J.H. Reynolds 
 ## 1905 "Sonnet."  
 
 **I** <span style="color:purple">once</span> had thought to have embalm'd my name  
