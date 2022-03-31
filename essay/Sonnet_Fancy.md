@@ -124,8 +124,8 @@ In Masefield's edition, the two sonnets
 
 <p align="left">
   <img 
-    width="400"
-    height="550"
+    width="300"
+    height="450"
     src="https://jdespain.github.io/scholarly_editing/images/Masefield_Sonnets.png">
 </p>
 
