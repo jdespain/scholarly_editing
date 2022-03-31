@@ -1,4 +1,4 @@
-# Miss Jewsbury's "Dirge for a Dead Painter" #
+# Miss Jewsbury's "Dirge for a Dead Painter"
 ## Edited by Kaye Moore & Liz Schroader ##
 ## From *The Athenaeum* no. 222, 28 January 1832 (new edition reprinted 21 April 1832) ##
 
