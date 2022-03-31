@@ -173,7 +173,7 @@ Those visions <span style="color:red"> going </span> like the lights of <span st
 All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:orange">,—  </span>  
 &nbsp; And I am <span style="color:red"> quiet </span> as the stars of <span style="color:purple">h</span>eaven! 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— **P.C.**  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— **P.C.**   
 
 
 
@@ -219,16 +219,14 @@ All intellectual  <span style="color:red">grandeur </span> dimly flees<span styl
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— **P.C.**  
 
 ## Editor's Finalized Text  
+
 insert text  
-
-
 
 # **Works Cited**
 
 ### **Primary Sources**
 
-Reynolds, John H. “Sonnet.” _The Fancy: A Selection from the Poetical Remains of the Late Peter Corcoran of Gray’s Inn, Student at Law_. London: Taylor & Hessey, 1820. p. x, https://books.google.com/books?id=WDEpwgEACAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false  
-
+Reynolds, John H. “Sonnet.” _The Fancy: A Selection from the Poetical Remains of the Late Peter Corcoran of Gray’s Inn, Student at Law_. London: Taylor & Hessey, 1820. p. x, https://books.google.com/books?id=WDEpwgEACAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false    
 
 Reynolds, John H. “Sonnet of Retirement.” _The Athenaeum,_ no. 219, London, England: 1832. #22, p. 9. https://babel.hathitrust.org/cgi/pt?id=njp.32101077276309&view=1up&seq=22&skin=2021  
 
