@@ -157,25 +157,24 @@ Insert Elizabeth's text
 # **Transcriptions**
 
 ## 1820 "Sonnet."  
-**I** <span style="color:purple">once</span> had thought to have embalm'd my name  
-With <span style="color:purple"> P</span>oesy<span style="color:orange">:</span>—to have <span style="color:blue"> serv <span style="color:orange">'</span>d </span> the gentle Muses  
-With high sincerity <span style="color:orange">:</span>—but <span style="color:red"> <span style="color:purple"> F</span>ate</span> refuses<span style="color:orange">,</span>  
-And I am now become most strangely tame,  
+<span style="background-color:lightgray">
+**I <span style="color:purple">  once**</span> had thought to have embalm'd my name  
+
+<span style="background-color:lightgray">&nbsp;&nbsp;&nbsp;&nbsp;With <span style="color:purple"> P</span>oesy<span style="color:DarkOrange">:</span>—to have <span style="color:blue"> serv <span style="color:DarkOrange ">'</span>d </span> the gentle Muses  
+&nbsp;&nbsp;&nbsp;&nbsp;With high sincerity <span style="color:DarkOrange ">:</span>—but <span style="color:red"> <span style="color:purple"> F</span>ate</span> refuses<span style="color:DarkOrange ">,</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;And I am now become most strangely tame,  
 And careless what becomes of <span style="color:purple">G</span>lory's game—  
-&nbsp; Who <span style="color:red"> strives </span> — who wins the <span style="color:blue">wondrous</span> prize— who   
-&nbsp; &nbsp; loses<span style="color:orange">!</span>  
-Not that the <span style="color:red"> heavy </span>  world my spirit bruises<span style="color:orange">;</span>  
- But<span style="color:red">  I have not the heart to rush at </span> Fame<span style="color:orange">.</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;Who <span style="color:red"> strives </span> — who wins the <span style="color:blue">wondrous</span> prize— who   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; loses<span style="color:DarkOrange ">!</span>  
+ &nbsp;&nbsp;&nbsp;&nbsp;Not that the<span style="color:red"> heavy </span>  world my spirit bruises<span style="color:DarkOrange ">;</span>  
+ &nbsp;&nbsp;&nbsp;&nbsp;But<span style="color:red">  I have not the heart to rush at </span> Fame<span style="color:DarkOrange ">.</span>  
 Magnificent and <span style="color:red">mental </span> images  
-Have visited me <span style="color:blue">oftentimes</span>, and given  
-My mind to proud delights — <span style="color:purple">b</span>ut now it sees  
-Those visions <span style="color:red"> going </span> like the lights of <span style="color:purple">e</span>ven<span style="color:orange">:</span>  
-All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:orange">,—  </span>  
-&nbsp; And I am <span style="color:red"> quiet </span> as the stars of <span style="color:purple">h</span>eaven! 
-
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— **P.C.**   
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;Have visited me <span style="color:blue">oftentimes</span>, and given  
+&nbsp;&nbsp;&nbsp;&nbsp;My mind to proud delights — <span style="color:purple">b</span>ut now it sees  
+Those visions <span style="color:red"> going </span> like the lights of <span style="color:purple">e</span>ven<span style="color:DarkOrange ">:</span>  
+&nbsp;&nbsp;&nbsp;&nbsp;All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:DarkOrange ">,—  </span>
+ &nbsp;&nbsp;&nbsp;&nbsp;And I am <span style="color:red"> quiet </span> as the stars of <span style="color:purple">h</span>eaven!  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**P.C.**  
 
 ## "Sonnet of Retirement
 
