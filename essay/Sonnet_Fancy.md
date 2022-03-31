@@ -157,10 +157,8 @@ Insert Elizabeth's text
 # **Transcriptions**
 
 ## 1820 "Sonnet."  
-<span style="background-color:lightgray">
 **I <span style="color:purple">  once**</span> had thought to have embalm'd my name  
-
-<span style="background-color:lightgray">&nbsp;&nbsp;&nbsp;&nbsp;With <span style="color:purple"> P</span>oesy<span style="color:DarkOrange">:</span>—to have <span style="color:blue"> serv <span style="color:DarkOrange ">'</span>d </span> the gentle Muses  
+&nbsp;&nbsp;&nbsp;&nbsp;With <span style="color:purple"> P</span>oesy<span style="color:DarkOrange">:</span>—to have <span style="color:blue"> serv <span style="color:DarkOrange ">'</span>d </span> the gentle Muses  
 &nbsp;&nbsp;&nbsp;&nbsp;With high sincerity <span style="color:DarkOrange ">:</span>—but <span style="color:red"> <span style="color:purple"> F</span>ate</span> refuses<span style="color:DarkOrange ">,</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;And I am now become most strangely tame,  
 And careless what becomes of <span style="color:purple">G</span>lory's game—  
@@ -172,9 +170,9 @@ Magnificent and <span style="color:red">mental </span> images
 &nbsp;&nbsp;&nbsp;&nbsp;Have visited me <span style="color:blue">oftentimes</span>, and given  
 &nbsp;&nbsp;&nbsp;&nbsp;My mind to proud delights — <span style="color:purple">b</span>ut now it sees  
 Those visions <span style="color:red"> going </span> like the lights of <span style="color:purple">e</span>ven<span style="color:DarkOrange ">:</span>  
-&nbsp;&nbsp;&nbsp;&nbsp;All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:DarkOrange ">,—  </span>
- &nbsp;&nbsp;&nbsp;&nbsp;And I am <span style="color:red"> quiet </span> as the stars of <span style="color:purple">h</span>eaven!  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**P.C.**  
+&nbsp;&nbsp;&nbsp;&nbsp;All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:DarkOrange ">,—  </span>  
+&nbsp;&nbsp;&nbsp;&nbsp;And I am <span style="color:red"> quiet </span> as the stars of <span style="color:purple">h</span>eaven!  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**P.C.**   
 
 ## "Sonnet of Retirement
 
