@@ -38,13 +38,13 @@ If we were the editors of this magazine and story, we would have included author
 
 ## Works Cited
 
-The Belgravia: A London Magazine- [(https://books.google.com/books?id=uaW_AAAAQBAJ&pg=PA203&lpg=PA203&dq=the+winning+hazard+talbot&source=bl&ots=ikSQ-TGjvm&sig=ACfU3U01ykJ-f-fwm-qh2mmyEmu9WvIIfg&hl=en&sa=X&ved=2ahUKEwi12LCA8sj2AhXOB50JHQj-BcMQ6AF6BAgdEAM#v=onepage&q=the%20winning%20hazard%20talbot&f=false])
+The Belgravia: A London Magazine- (https://books.google.com/books?id=uaW_AAAAQBAJ&pg=PA203&lpg=PA203&dq=the+winning+hazard+talbot&source=bl&ots=ikSQ-TGjvm&sig=ACfU3U01ykJ-f-fwm-qh2mmyEmu9WvIIfg&hl=en&sa=X&ved=2ahUKEwi12LCA8sj2AhXOB50JHQj-BcMQ6AF6BAgdEAM#v=onepage&q=the%20winning%20hazard%20talbot&f=false)
 
 Even though slavery and slave markets started in Europe and were a very prevalent in their daily society, North America was no different. 
-[(https://en.wikipedia.org/wiki/Slave_market]) 
+(https://en.wikipedia.org/wiki/Slave_market) 
 
-The Uncanny- [(https://www.freud.org.uk/2019/09/18/the-uncanny/])
-Irish Land Act of 1870-  [(https://books.google.com/books?hl=en&lr=&id=U-88AAAAIAAJ&oi=fnd&pg=PR9&dq=irish+land+act+1870&ots=scuOCLZctd&sig=Csi57__YvmOdhIx_TUvH0sahnIU#v=onepage&q=irish%20land%20act%201870&f=false])
+The Uncanny- (https://www.freud.org.uk/2019/09/18/the-uncanny/)
+Irish Land Act of 1870-  (https://books.google.com/books?hl=en&lr=&id=U-88AAAAIAAJ&oi=fnd&pg=PR9&dq=irish+land+act+1870&ots=scuOCLZctd&sig=Csi57__YvmOdhIx_TUvH0sahnIU#v=onepage&q=irish%20land%20act%201870&f=false)
 
 # Story by Fredrick Talbot
 ## Joe Upon Happiness
