@@ -114,8 +114,8 @@ In _The Fancy_, the two sonnets
 
 <p align="left">
   <img 
-    width="400"
-    height="550"
+    width="550"
+    height="400"
     src="https://jdespain.github.io/scholarly_editing/images/1820_Sonnet_PageLayout.png">
 </p>
 
@@ -124,8 +124,8 @@ In Masefield's edition, the two sonnets
 
 <p align="left">
   <img 
-    width="550"
-    height="400"
+    width="400"
+    height="550"
     src="https://jdespain.github.io/scholarly_editing/images/Masefield_Sonnets.png">
 </p>
 
