@@ -167,8 +167,8 @@ With <span style="color:purple"> P</span>oesy<span style="color:orange">:</span>
 With high sincerity <span style="color:orange">:</span>—but <span style="color:red"> <span style="color:purple"> F</span>ate</span> refuses<span style="color:orange">,</span>  
 And I am now become most strangely tame,  
 And careless what becomes of <span style="color:purple">G</span>lory's game—  
-&nbsp; Who <span style="color:red"> strives </span> — who wins the <span style="color:blue">wondrous</span> prize—  
-&nbsp; &nbsp; who loses<span style="color:orange">!</span>  
+&nbsp; Who <span style="color:red"> strives </span> — who wins the <span style="color:blue">wondrous</span> prize—who    
+&nbsp; &nbsp; loses<span style="color:orange">!</span>  
 Not that the <span style="color:red"> heavy </span>  world my spirit bruises<span style="color:orange">;</span>  
  But<span style="color:red">  I have not the heart to rush at </span> Fame<span style="color:orange">.</span>  
 Magnificent and <span style="color:red">mental </span> images  
