@@ -187,14 +187,14 @@ I <span style="color:purple"> once</span> had thought to have embalm'd my name
 &nbsp;&nbsp;&nbsp;&nbsp;With high sincerity <span style="color:orange">;</span>—but <span style="color:red">life</span> refuses<span style="color:orange">;—</span>  
 And I am now become most strangely tame,  
 And careless what becomes of <span style="color:purple">g</span>lory's game—  
- &nbsp;&nbsp;&nbsp;&nbsp;Who <span style="color:red"> plays </span> — who wins the <span style="color:blue">wond<span style="color:orange">'</span> rous</span> prize—  
+ &nbsp;&nbsp;&nbsp;&nbsp;Who <span style="color:red"> plays </span>—who wins the <span style="color:blue">wond<span style="color:orange">'</span> rous</span> prize—  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;who loses<span style="color:orange">:</span>  
 Not that the <span style="color:red"> jarring </span>  world my spirit bruises<span style="color:orange">—</span>  
  But<span style="color:red">  fate denies the Paradise of </span> Fame<span style="color:orange">!</span>  
    
 Magnificent and <span style="color:red">lustrous </span> images  
 &nbsp;&nbsp;&nbsp;&nbsp;Have visited me often<span style="color:orange">-</span>times, and given  
-My mind to proud delights — <span style="color:purple">B</span>ut now it sees  
+My mind to proud delights—<span style="color:purple">B</span>ut now it sees  
 &nbsp;&nbsp;&nbsp;&nbsp;Those visions <span style="color:red"> fading </span> like the lights of <span style="color:purple">E</span>ven<span style="color:orange">';</span>  
 All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:orange">,</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;And I am <span style="color:red"> silent </span> as the stars of <span style="color:purple">H</span>eaven!  
