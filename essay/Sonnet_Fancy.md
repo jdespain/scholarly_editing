@@ -158,7 +158,9 @@ Additional footnotes provide either **biographical** or  **historical** or **lit
 
 Insert Elizabeth's text
 
-# **Transcriptions**
+# **Transcriptions**  
+
+## 1820: "SONNET."
 
 **I** <span style="color:purple">once</span> had thought to have embalm'd my name  
 With <span style="color:purple"> P</span>oesy<span style="color:orange">:</span>—to have <span style="color:blue"> serv <span style="color:orange">'</span>d </span> the gentle Muses  
@@ -178,7 +180,7 @@ All intellectual  <span style="color:red">grandeur </span> dimly flees<span styl
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;— **P.C.**    
 
-## "Sonnet of Retirement"
+## 1832: "SONNET FOR RETIREMENT."
 
 I <span style="color:purple"> once</span> had thought to have embalm'd my name  
 &nbsp;&nbsp;&nbsp;&nbsp;With <span style="color:purple"> p</span>oesy—to have <span style="color:blue"> served </span> the gentle Muses  
@@ -199,7 +201,7 @@ All intellectual  <span style="color:red">grandeur </span> dimly flees<span styl
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — **J.H. Reynolds**  
  
-## 1905 "Sonnet."  
+## 1905: "Sonnet."  
 
 **I** <span style="color:purple">once</span> had thought to have embalm'd my name  
 With <span style="color:purple"> P</span>oesy<span style="color:orange">:</span>—to have <span style="color:blue"> serv <span style="color:orange">'</span>d </span> the gentle Muses  
