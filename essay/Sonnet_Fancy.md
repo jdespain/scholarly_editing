@@ -196,7 +196,7 @@ Magnificent and <span style="color:red">lustrous </span> images
 &nbsp;&nbsp;&nbsp;&nbsp;Have visited me often<span style="color:orange">-</span>times, and given  
 My mind to proud delights—<span style="color:purple">B</span>ut now it sees  
 &nbsp;&nbsp;&nbsp;&nbsp;Those visions <span style="color:red"> fading </span> like the lights of <span style="color:purple">E</span>ven<span style="color:orange">';</span>  
-All intellectual  <span style="color:red">grandeur </span> dimly flees<span style="color:orange">,</span>  
+All intellectual <span style="color:red">glory</span> dimly flees<span style="color:orange">,</span>  
 &nbsp;&nbsp;&nbsp;&nbsp;And I am <span style="color:red"> silent </span> as the stars of <span style="color:purple">H</span>eaven!  
   
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — **J.H. Reynolds**  
