@@ -1,4 +1,4 @@
-# Joe Upon Happiness by Fredrick Talbot 
+# Frederick Talbot's "Joe Upon Happiness" 
 ### edited by Lamonta Swarn and Adam Schroeder
 
 ## Textual History
