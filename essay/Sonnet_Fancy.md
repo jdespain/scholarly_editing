@@ -47,9 +47,6 @@ There are many critics who argue Reynolds failed to reach the poetic genius and 
 
 > “Reynolds was often a good lyrist-more often than is realized by many who laugh at Hunt for linking his name with Keats and Shelley—but he frequently spoiled his sonnets by paying too little attention to the important closing lines" (Jones, 107).  
 
-
-
-
 ### ***Biographical Timeline***  
 
 
@@ -94,7 +91,12 @@ A scholar of Reynolds, Leonidas M. Jones, offers authorial intention behind Reyn
 
 The irony lies, unbeknownst to Reynolds, in the uncanny prediction of his future. Below, you can see various passages pulled from _The Fancy_ to the similarities in Reynolds’s own fate:  
 
-**insert list
+> “The innocent vices of his boyhood, for such they might comparatively be termed, were exchanged for the deeper failings of advanced years: he plunged into the faming and drinking habits of his associates with an enthusiasm strange and dangerous” (xi).  
+
+> “He drank,—he betted,—he sang:—but the patient hour of self-reproach would come … His muse abandoned all hope of achieving anything great or good…” (xviii).  
+ 
+> “It is impossible to contemplate the youth, the talents, the fate of this young man, and not lament that he should not have applied himself to some pursuit steadily, so as to have filled a worthy station in life” (xxvii).  
+
  
 ### **1832: _The Athenaeum_, “Sonnet for Retirement.”**  
 
