@@ -90,7 +90,7 @@ defaults:
     values:
       navigation: "true"
   - scope:
-      path: "docs/listing.html"
+      path: "essay/talbot.md"
     values:
       navigation: "true"
 
