@@ -22,14 +22,36 @@ After this he only wrote non-literary prose for the magazine Athenaeum and creat
 
 # **Textual History**  
 
+# **Textual History**  
+
 Before we narrow in on the textual history of “Sonnet for Retirement,” it may be helpful to begin pinpointing key information specific to Reynold’s literary style and the biographical context aforementioned pertinent to the time when Reynold’s published the various sonnet versions.  
 
-
-### ***A Romantic and Satirical Genuis***  
+### A Satirical Genuis  
 
 Reynolds's strongest genre was satire. Since childhood, he had written comic and satirical poetry, which for years he “regarded as pieces of diversion” (Jones 304). Reynolds's most familiar work is his satirical masterpiece _Peter Bell_, an “uproarious mockery of William Wordsworth’s faults and limitations” (Jones 304). Leonidas Jones, a well-versed scholar of Reynolds, explains that “satire always depends upon the reader’s knowledge of and interest in what is being satirized. All literate people have potential traces of malice and envy that Reynolds's iconoclasm appeals to in ridiculing in _Peter Bell_ the great poetic god Wordsworth” (Jones 305).  
 
-Reynolds’s satirical approach and engagement with Romantic aesthetics are essential to keep in mind while reviewing the transcriptions and their provided footnotes.
+### Romanticism  
+
+Reynolds wrote during the English Romantic period, and his contemporaries included Keats, Coleridge, and Wordsworth. Reynolds’s poetry employed Romantic aesthetics such as appreciate for nature, perception over reason, the search for hero and/or genius, nostalgia, death, and the sublime. In addition, he produced many Petrarchan sonnets—a poetic structure he employed for “Sonnet for Retirement”:  
+
+<p align="left">
+  <img 
+    width="400"
+    height="550"
+    src="https://jdespain.github.io/scholarly_editing/images/PETSONNET.png">
+</p>  
+
+#### _“SONNET FOR RETIREMENT”: A Petrarchan Sonnet_  
+
+Petrarchan sonnets have their own rhyme scheme and structure. They include two stanzas: an octave, or eight lines, and a sestet, or six lines. 
+One key characteristic of Petrarchan sonnets is the “blazon.” The blazon is a poetic mode usually used with literary devices to praise or express adoration for a subject. However, in the case of “Sonnet for Retirement,” the blazon is instead used to place blame or express scorn—most likely on his lack of success and recognition for his work.  
+
+There are many critics who argue Reynolds failed to reach the poetic genius and craft achieved by other Romantic poets:  
+
+> “Reynolds was often a good lyrist-more often than is realized by many who laugh at Hunt for linking his name with Keats and Shelley—but he frequently spoiled his sonnets by paying too little attention to the important closing lines" (Jones, 107).  
+
+
+
 
 ### ***Biographical Timeline***  
 
