@@ -110,7 +110,7 @@ The irony lies, unbeknownst to Reynolds, in the uncanny prediction of his future
 > “It is impossible to contemplate the youth, the talents, the fate of this young man, and not lament that he should not have applied himself to some pursuit steadily, so as to have filled a worthy station in life” (xxvii).  
 
  
-### **1832: _The Athenaeum_, “Sonnet for Retirement.”**  
+### **1832: _The Athenaeum_, “SONNET FOR RETIREMENT.”**  
 
 <p align="left">
   <img 
