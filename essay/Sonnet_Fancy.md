@@ -258,7 +258,7 @@ All intellectual  <span style="color:red">grandeur </span> dimly flees<span styl
 
 ## Editor's Finalized Text  
 
-## 1832: “SONNET FOR RETIREMENT.”[^1]  
+### 1832: “SONNET FOR RETIREMENT.”[^1]  
 I once had thought to have embalm’d[^2] my name  
     With poesy[^3]—to have served the gentle Muses[^4]  
     With high sincerity;—but life[^5] refuses;—  
@@ -286,11 +286,11 @@ All intellectual glory dimly flees,
 
 [^4]: The Muses were the Greek goddesses of poetic inspiration, the adored deities of song, dance, and memory, on whose mercy the creativity, wisdom, and insight of all artists and thinkers depended. In his essay, “The Poetry of John Hamilton Reynolds,” Robert Gittings offers context behind Reynold’s view of “The Muses”:  
 
-“The curious lack of ease, which penetrates even Reynolds's best poems, may perhaps be traced to this family background. It must have been a strong sense of inferiority that led him to write, when only 21 (11),”  
+[^4]: “The curious lack of ease, which penetrates even Reynolds's best poems, may perhaps be traced to this family background. It must have been a strong sense of inferiority that led him to write, when only 21 (11),”  
 
-> I am one of those unfortunate youths to whom the Muse has glanced a sparkling of her light — one of those who pant for distinction, but have not within them that immortal powerwhichalonecancommandit.  
+[^4]: > I am one of those unfortunate youths to whom the Muse has glanced a sparkling of her light — one of those who pant for distinction, but have not within them that immortal powerwhichalonecancommandit.  
 
-“In fact, the Muse, which Reynolds invoked so despairingly and renounced so frequently, only to fall into her toils again, was perhaps not that of Poetry but of Parody” (16).  
+[^4]: “In fact, the Muse, which Reynolds invoked so despairingly and renounced so frequently, only to fall into her toils again, was perhaps not that of Poetry but of Parody” (16).  
 
 [^5]: In the 1820 sonnet, Reynolds uses the word “Fate” with a capital “F.” In his 1832 revision, he changes the word to “life,” using a lowercase “l.” Fate is often a term that refers to events beyond human control. Although Reynolds repurposes “fate” in line 9, it’s possible “life” offers personal self-determination, especially when compared to line 4. Reynolds may be indicating agency over his career choice and renounce of vices.  
 
