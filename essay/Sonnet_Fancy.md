@@ -33,8 +33,8 @@ Reynolds wrote during the English Romantic period, and his contemporaries includ
 
 <p align="left">
   <img 
-    width="350"
-    height="300"
+    width="550"
+    height="400"
     src="https://jdespain.github.io/scholarly_editing/images/PETSONNET.png">
 </p>  
 
