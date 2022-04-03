@@ -278,19 +278,13 @@ All intellectual glory dimly flees,
                                                 — J.H. Reynolds[^11]  
 
 
-[^1]: 1: Reynolds revises his sonnet’s title in 1832 from “Sonnet” to “Sonnet for Retirement.” Reynolds may have found “retirement” to represent the text’s meaning more accurately. In addition, and since The Fancy was a meditation on his own life, framing the 1832 sonnet around its biographical context suggests Reynolds’s updated commentary on his life.  
+[^1]: Reynolds revises his sonnet’s title in 1832 from “Sonnet” to “Sonnet for Retirement.” Reynolds may have found “retirement” to represent the text’s meaning more accurately. In addition, and since The Fancy was a meditation on his own life, framing the 1832 sonnet around its biographical context suggests Reynolds’s updated commentary on his life.  
 
 [^2]: Here, as well as with the word “wond’rous in line 6,” Reynolds employs an elision, most likely to lower the number of syllables in order to adhere to the meter of the Petrarchan sonnet.  
 
 [^3]: “posey” is another term for “poetry.” Not to be confused with “poesy,” a term related to a person attempting to impress others or perceived as pretentious.  
 
-[^4]: The Muses were the Greek goddesses of poetic inspiration, the adored deities of song, dance, and memory, on whose mercy the creativity, wisdom, and insight of all artists and thinkers depended. In his essay, “The Poetry of John Hamilton Reynolds,” Robert Gittings offers context behind Reynold’s view of “The Muses”:  
-
-[^4]: “The curious lack of ease, which penetrates even Reynolds's best poems, may perhaps be traced to this family background. It must have been a strong sense of inferiority that led him to write, when only 21 (11),”  
-
-[^4]: > I am one of those unfortunate youths to whom the Muse has glanced a sparkling of her light — one of those who pant for distinction, but have not within them that immortal powerwhichalonecancommandit.  
-
-[^4]: “In fact, the Muse, which Reynolds invoked so despairingly and renounced so frequently, only to fall into her toils again, was perhaps not that of Poetry but of Parody” (16).  
+[^4]: The Muses were the Greek goddesses of poetic inspiration, the adored deities of song, dance, and memory, on whose mercy the creativity, wisdom, and insight of all artists and thinkers depended. In his essay, “The Poetry of John Hamilton Reynolds,” Robert Gittings offers context behind Reynold’s view of “The Muses”: “The curious lack of ease, which penetrates even Reynolds's best poems, may perhaps be traced to this family background. It must have been a strong sense of inferiority that led him to write, when only 21 (11), 'I am one of those unfortunate youths to whom the Muse has glanced a sparkling of her light — one of those who pant for distinction, but have not within them that immortal powerwhichalonecancommandit.' In fact, the Muse, which Reynolds invoked so despairingly and renounced so frequently, only to fall into her toils again, was perhaps not that of Poetry but of Parody” (16).    
 
 [^5]: In the 1820 sonnet, Reynolds uses the word “Fate” with a capital “F.” In his 1832 revision, he changes the word to “life,” using a lowercase “l.” Fate is often a term that refers to events beyond human control. Although Reynolds repurposes “fate” in line 9, it’s possible “life” offers personal self-determination, especially when compared to line 4. Reynolds may be indicating agency over his career choice and renounce of vices.  
 
