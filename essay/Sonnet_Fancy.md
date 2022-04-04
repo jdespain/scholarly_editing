@@ -278,7 +278,7 @@ All intellectual glory dimly flees,
                                                 — J.H. Reynolds[^11]  
 
 
-[^1]: Reynolds revises his sonnet’s title in 1832 from “Sonnet” to “Sonnet for Retirement.” Reynolds may have found “retirement” to represent the text’s meaning more accurately. In addition, and since The Fancy was a meditation on his own life, framing the 1832 sonnet around its biographical context suggests Reynolds’s updated commentary on his life.  
+[^1]: Reynolds revises his sonnet’s title in 1832 from “Sonnet” to “Sonnet for Retirement.” Reynolds may have found “retirement” to represent the text’s meaning more accurately. In addition, and since _The Fancy_ was a meditation on his own life, framing the 1832 sonnet around its biographical context suggests Reynolds’s updated commentary on his life.  
 
 [^2]: Here, as well as with the word “wond’rous in line 6,” Reynolds employs an elision, most likely to lower the number of syllables in order to adhere to the meter of the Petrarchan sonnet.  
 
@@ -296,7 +296,7 @@ All intellectual glory dimly flees,
  
 [^9]: This is Reynolds's most significant revision from his 1820 version. Only the first and last words remain the same. The meat of the line is changed from “I have not the heart to rush” to “fate denies the Paradise of.” Reynolds also emends the punctuation: a period to an exclamation point. Here, Reynolds relinquishes the agency he gave himself earlier, suggesting it wasn’t his lack of desire but rather out of his control. In addition, he introduces the word “Paradise,” a term, especially when capitalized, that refers to Heaven (a word he uses in the final line of his sonnet).  
 
-[^10]: Here, Reynolds places an elision at the end of “Even.” This emendation of punctuation proffers clarity: “Even’” is a contraction of “Evening.” Considering the line's context, the text may be possible to interpret; however, it eliminates uncertainty and allows a more straightforward reading.  
+[^10]: Here, Reynolds places an elision at the end of “Even.” This emendation of punctuation proffers clarity: “Even’” is a contraction of “Evening.” Considering the line's context, the text may be possible to interpret; however, the elision eliminates uncertainty and allows for a more straightforward reading.  
 
 [^11]: In 1832, Reynolds credits himself to “Sonnet of Retirement” instead of Corcoran.  
 
