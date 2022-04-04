@@ -1,4 +1,4 @@
-# **John Hamilton Reynolds:"Sonnet for Retirement."**
+# **John Hamilton Reynolds: "Sonnet for Retirement."**
 
 <p align="left">
   <img 
