@@ -58,7 +58,7 @@ In addition to this claim, there are a few more issues present in Reynolds’s s
 - Typically, the octave of a Petrarchan sonnet presents a question, and the sestet attempts to answer. At the end of the octave, leading into the sestet, this shift in subject matter occurs called the “volta.” It seems—however, I may be incorrect—that the shift from “question” to “answer” takes place earlier, in line 3. 
 Whether these concerns have authorial intention or they are due to inexperience, they are crucial to the work, its meaning, and interpretation.  
 
-In sum, Reynolds’s satirical approach and engagement with Romantic aesthetics are essential to keep in mind while reviewing the transcriptions and their provided footnotes.  
+In sum, Reynolds’s satirical approach and engagement with Romantic aesthetics are essential to keep in mind while reviewing the transcriptions and the footnotes footnotes.  
 
 ### ***Biographical Timeline***  
 
