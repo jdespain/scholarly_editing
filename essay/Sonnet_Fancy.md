@@ -260,22 +260,22 @@ All intellectual  <span style="color:red">grandeur </span> dimly flees<span styl
 
 ### 1832: “SONNET FOR RETIREMENT.”[^1]  
 I once had thought to have embalm’d[^2] my name  
-    With poesy[^3]—to have served the gentle Muses[^4]  
-    With high sincerity;—but life[^5] refuses;—  
+    &nbsp;&nbsp;&nbsp;&nbspWith poesy[^3]—to have served the gentle Muses[^4]  
+    &nbsp;&nbsp;&nbsp;&nbspWith high sincerity;—but life[^5] refuses;—  
 And I am now become most strangely tame[^6],  
 And careless what becomes of glory’s[^7]: game—  
-    Who plays—who wins the wond’ rous prize—  
-        who loses:  
+    &nbsp;&nbsp;&nbsp;&nbspWho plays—who wins the wond’ rous prize—  
+       &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbspwho loses:  
 Not that the jarring[^8] world my spirit bruises—  
 But fate denies the Paradise of Fame[^9]!  
 
 Magnificent and lustrous images  
-    Have visited me often-times, and given  
+    &nbsp;&nbsp;&nbsp;&nbspHave visited me often-times, and given  
 My mind to proud delights—But now it sees  
-    Those visions fading like the lights of Even’[^10];  
+    &nbsp;&nbsp;&nbsp;&nbspThose visions fading like the lights of Even’[^10];  
 All intellectual glory dimly flees,  
-    And I am silent as the stars of Heaven!  
-                                                — J.H. Reynolds[^11]  
+    &nbsp;&nbsp;&nbsp;&nbspAnd I am silent as the stars of Heaven!  
+    &nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp— J.H. Reynolds[^11]  
 
 
 [^1]: Reynolds revises his sonnet’s title in 1832 from “Sonnet” to “Sonnet for Retirement.” Reynolds may have found “retirement” to represent the text’s meaning more accurately. In addition, and since _The Fancy_ was a meditation on his own life, framing the 1832 sonnet around its biographical context suggests Reynolds’s updated commentary on his life.  
