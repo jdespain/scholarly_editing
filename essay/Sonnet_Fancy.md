@@ -22,7 +22,7 @@ After this he only wrote non-literary prose for the magazine Athenaeum and creat
 
 # **Textual History**  
 
-Before we narrow in on the textual history of “Sonnet for Retirement,” it may be helpful to begin pinpointing key information specific to Reynold’s literary style and the biographical context aforementioned pertinent to the time when Reynold’s published the various sonnet versions.  
+Before we narrow in on the textual history of “Sonnet for Retirement,” it may be helpful to begin by pinpointing key information specific to Reynold’s literary style and the biographical context, aforementioned, pertinent to the time when Reynold’s published the various sonnet versions.  
 
 ### _A Satirical Genuis_  
 
@@ -53,7 +53,7 @@ In addition to this claim, there are a few more issues present in Reynolds’s s
 
 - In line 10, the final word fails to rhyme with “sees” and “flees”.  
 
-- A Petrarchan sonnet has 15 lines total. However, due to the enjambment in line 7, Reynolds’s poem contains 15 lines.  
+- A Petrarchan sonnet has 14 lines total. However, due to the enjambment in line 7, Reynolds’s poem contains 15 lines.  
 
 - Typically, the octave of a Petrarchan sonnet presents a question, and the sestet attempts to answer. At the end of the octave, leading into the sestet, this shift in subject matter occurs called the “volta.” It seems—however, I may be incorrect—that the shift from “question” to “answer” takes place earlier, in line 3. 
 Whether these concerns have authorial intention or inexperience, they are crucial to the work, its meaning, and interpretation.  
