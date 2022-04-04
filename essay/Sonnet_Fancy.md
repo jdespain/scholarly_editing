@@ -169,7 +169,11 @@ In sum, these variants are crucial in understanding how bibliographic codes add 
 
 # **Social and Historical Context**
 
-Insert Alex's text
+In 1832 a second cholera pandemic began to spread around London, the Reform Act was introduced by Lord Grey, Prime Minister of the United Kingdom from 1830 to 1834. It changed the way in which British citizens were allowed to vote, making the electoral system more fair. It was a year preceded by several disturbances and riots throughout the whole Britain, public buildings were burnt and an estimated £300,000 damages were dealt altogether with 12 deaths, 102 imprisonments and 31 death sentences, due to the negative of the Tories to pass the Reform Act in 1831. It was a period of social tension and stress and the Reform Act was necessary to stop all these actions.   
+
+The original version of __The Fancy__ was published in 1820, a year full of political history as King George IV ascended to the throne of England, ending the Regency Era. The Radical War started in April of the same year, building tensions around the country. Keats published __Lamia and Other Poems__ , Anne Brontë and John Coleridge were born in this year.   
+
+All of these influenced the author's point of view in both the original (1820) and the reviewed version (1832), changing the way in which he saw the world and how he wanted to represent the poem and the effect he wanted to cause   
 
 # **Editorial Rationale**  
 We took notice of the spelling, capitalization, and punctuation (including indentations). This includes the of apostrophes so that the entire word is spelled out (e.g. wondrous vs. wond’rous), and the adjusting of the capitalization of some words as well as the punctuation (e.g. Posey:— vs. posey—). We also discussed the word differences that appeared between the 1820 and 1832 versions (see chart below to show major word changes).  
