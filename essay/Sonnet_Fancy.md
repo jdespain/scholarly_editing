@@ -1,4 +1,5 @@
-# **John Hamilton Reynolds: ###"SONNET OF RETIREMENT."**
+# **John Hamilton Reynolds:***  
+### "SONNET OF RETIREMENT."**
 
 <p align="left">
   <img 
