@@ -5,7 +5,8 @@
     width="400"
     height="550"
     src="https://jdespain.github.io/scholarly_editing/images/JHR.jpeg">
-</p>
+</p>  
+### By Kezia Miller, Alejandro Prieto Carbonell, and Elizabeth Thomas  
 
 # **Authorial Biography**
 
