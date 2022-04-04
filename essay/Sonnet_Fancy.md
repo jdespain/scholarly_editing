@@ -142,7 +142,7 @@ Masefield’s 1905 reprint of _The Fancy_ is ***not*** a scholarly edition. He d
  “Peter Corcoran was Reynolds, the better and poetical self of him. It is that which gives the book such pathetic intensity. It is that which barbs the wit of it, and makes it memorable” (20).  
  
  > “[_The Fancy_ is Reynolds’s] own farewell to the world; his last dying speech and confession; his final parting with his youth, his poetry, the forbidden delights of youth” (19).  
- > 
+
 Before reviewing the sonnet transcriptions, it is important to note a variant in the poem’s textual materiality of Masefield’s 1905 edition.
 It is important to note a variant within the bibliographic codes of the 1820 and 1905 sonnet versions necessary to address before reviewing the three sonnet transcriptions: the page layout.  
 
