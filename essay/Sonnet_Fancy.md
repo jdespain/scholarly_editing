@@ -264,8 +264,8 @@ I once had thought to have embalm’d[^2] my name
 &nbsp;&nbsp;&nbsp;&nbsp; With high sincerity;—but life[^5] refuses;—  
 And I am now become most strangely tame[^6],  
 And careless what becomes of glory’s[^7]: game—  
-&nbsp;&nbsp;&nbsp;&nbsp; Who plays—who wins the wond’ rous prize—  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; who loses:  
+&nbsp;&nbsp;&nbsp;&nbsp; Who plays—who wins the wond’ rous prize—who   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; loses:  
 Not that the jarring[^8] world my spirit bruises—  
 But fate denies the Paradise of Fame[^9]!  
 
