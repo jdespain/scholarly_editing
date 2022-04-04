@@ -194,10 +194,6 @@ Alongside the colored codes, you can find corresponding footnotes that further d
 
 Additional footnotes provide either **biographical** or  **historical** or **literary** context, offering you the opportunity for deeper understanding and readings.  
 
-# **Ethical Implications**
-
-Insert Elizabeth's text
-
 # **Transcriptions**  
 
 ## 1820: "SONNET."  
