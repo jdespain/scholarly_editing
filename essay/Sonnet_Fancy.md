@@ -136,7 +136,7 @@ Last, by considering the context in which the poem was published, Reynolds may b
     src="https://jdespain.github.io/scholarly_editing/images/1905_Masefield.png">
 </p>  
 
-In his introduction, John Masefield offers reason for the importance of recovering _The Fancy_. He states, “it is strange” _The Fancy_ “should have been so long out of print. It is full of beauty, and wit, and humour, and pathos. Its beauty and wit and pathos have never lacked lovers; and it has been kept in memory, if never reprinted” (22).  
+In his introduction, John Masefield offers reason for the importance of recovering _The Fancy_. He states, “it is strange the book should have been so long out of print. It is full of beauty, and wit, and humour, and pathos. Its beauty and wit and pathos have never lacked lovers; and it has been kept in memory, if never reprinted” (22).  
 
 Masefield’s 1905 reprint of _The Fancy_ is ***not*** a scholarly edition. He does not make any textual emendations or offer any textual annotations. Instead, Masefield provides a prefatory memoir with contextual notes. Below, I provide key passages from his introduction that frame Reynolds’s work:
  “Peter Corcoran was Reynolds, the better and poetical self of him. It is that which gives the book such pathetic intensity. It is that which barbs the wit of it, and makes it memorable” (20).  
