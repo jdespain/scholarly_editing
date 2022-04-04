@@ -275,7 +275,7 @@ My mind to proud delights—But now it sees
 &nbsp;&nbsp;&nbsp;&nbsp; Those visions fading like the lights of Even’[^10];  
 All intellectual glory dimly flees,  
 &nbsp;&nbsp;&nbsp;&nbsp; And I am silent as the stars of Heaven!  
-&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp; — J.H. Reynolds[^11]  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; — J.H. Reynolds[^11]  
 
 
 [^1]: Reynolds revises his sonnet’s title in 1832 from “Sonnet” to “Sonnet for Retirement.” Reynolds may have found “retirement” to represent the text’s meaning more accurately. In addition, and since _The Fancy_ was a meditation on his own life, framing the 1832 sonnet around its biographical context suggests Reynolds’s updated commentary on his life.  
