@@ -86,7 +86,7 @@ defaults:
     values:
       navigation: "true"
   - scope:
-      path: "essay/talbot.md"
+      path: "essay/Talbot.md"
     values:
       navigation: "true"
 
